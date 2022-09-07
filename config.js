@@ -37,45 +37,44 @@ let fs = require('fs')
 */
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.owner = ['6281361281833']
-global.mods = ['6281361281833']
+global.owner = ['6285822347348']
+global.mods = ['6285822347348']
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.author = '𝑴𝒀 𝐴𝐿𝐷𝐼'
-global.namebot = '​ 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
-global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
+global.author = 'ArullBotz'
+global.namebot = '​ArullBotz'
+global.wm = '© ArullBotz '
+global.media = 'https://telegra.ph/file/950e030e5498049671375.jpg'
+global.wm = 'ArullBotz'
 global.watermark = wm
-global.wm2 = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
-global.wm3 = '𝑌𝑢𝑠𝒉𝑖𝑛𝑜 𝑀𝑑 '
+global.wm2 = 'ArullBotz'
+global.wm3 = 'ArullBotz'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ownername = '⟆𝐀⃟𝐿𝐷𝐼'   
-global.ownernomor = '+62 813 6128 1833'
+global.ownername = 'Arull'   
+global.ownernomor = '+62 858-2234-7348'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.Linkgc = 'Bentar'
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.Linkgc = 'https://chat.whatsapp.com/ItwCvXL02hg11U5qNaLSBe'
+global.lynk = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ig = 'https://instagram/hyuura_official'
-global.yt = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
+global.ig = 'https://instagram/sahrulwara_____'
+global.yt = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.dana = '0813 6128 1833'
-global.gopay = '0813 6128 1833'
-global.pulsa = '0813 6128 1833'
-global.saweria =  'https://saweria.co/hyuura'
+global.dana = '085822347348'
+global.pulsa = '085822347348'
+global.saweria =  'https://saweria.co/arullofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
+global.ListHargaSewa = '├ 1 Bulan IDR 10.000\n├ Permanen IDR 20.000'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.LyAtas1 = '☰ ━━━ ❨'
 global.LyAtas2 = '❩ ━━┄┈ •⟅'
@@ -171,7 +170,7 @@ global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tr
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.urlnya = "https://www.instagram.com/hyuura-official"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0813 6128 1833'
+global.phn = '+62-858-2234-7348'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
